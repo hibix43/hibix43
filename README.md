@@ -1,6 +1,6 @@
 # Hi, I'm hibix
 
-闘病プログラマ。
+難病プログラマ。
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibix43&layout=compact&show_icons=true&theme=github_dark&langs_count=10" />
